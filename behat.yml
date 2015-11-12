@@ -1,0 +1,10 @@
+default:
+    autoload:
+        - %paths.base%/Context/
+    suites:
+        default:
+            paths:
+                - %paths.base%/features
+            contexts:
+                - Cachan\Bbst\Context\HttpContext
+                - Cachan\Bbst\Context\TlsContext

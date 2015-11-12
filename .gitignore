@@ -1,0 +1,6 @@
+vendor
+.vagrant
+.idea
+!features/sample-*
+
+tests/_output/*

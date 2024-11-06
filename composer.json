@@ -13,7 +13,7 @@
   "require": {
     "monolog/monolog": "1.0.*",
     "symfony/console": "2.6.*",
-    "symfony/process": "2.6.*",
+    "symfony/process": "5.4.*",
     "guzzle/guzzle": "3.9.*",
     "phpseclib/phpseclib": "dev-master",
     "behat/behat": "3.0.*",
